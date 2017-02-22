@@ -1,4 +1,4 @@
-package com.data.design.createmode.factorymethod.Singleton;
+package com.data.design.createmode.factorymethod.simplefactorypattern;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @Author XiJun.Gong
  * @DATE 2017/2/22.
- * aim:   com.data.design.createmode.factorymethod.Singleton
+ * aim:   com.data.design.createmode.factorymethod.simplefactorypattern
  */
 public class HumanFactory {
     /*这里先不考虑线程安全问题*/
